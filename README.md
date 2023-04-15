@@ -1,7 +1,7 @@
 # Virtual-TA-ChatBot-Demo
 
 
-Project Repo: https://github.com/Jpatel1103/CS4485-Virtual-TA-
+Project Repo: https://github.com/Jpatel1103/CS4485-Virtual-TA-/tree/master
 
 
 
